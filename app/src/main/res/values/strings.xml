@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyPhone</string>
+    <string name="sign_in_with_google">Sign In With Google</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="add_phone">Add Phone</string>
+    <string name="image">%1$s Image</string>
+    <string name="are_you_sure">Are You Sure</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="error_fetching_data">Error Fetching Data</string>
+    <string name="try_again">Try Again</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="brand">Brand</string>
+    <string name="save">Save</string>
+    <string name="app_description">List your favorite collection phone</string>
+    <string name="login_failed">Login Failed. Please Check Your Internet Connection</string>
+</resources>
